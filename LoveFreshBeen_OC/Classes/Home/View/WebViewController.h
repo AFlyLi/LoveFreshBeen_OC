@@ -7,7 +7,8 @@
 //
 
 #import "BaseViewController.h"
+#import "Activity.h"
 
 @interface WebViewController : BaseViewController
-
+- (instancetype)initWithActivity:(Activity *)activity;
 @end

@@ -7,7 +7,7 @@
 //
 
 #import "BaseViewController.h"
+#import "AddressData.h"
 
 @interface MyAdressViewController : BaseViewController
-
 @end
